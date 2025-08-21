@@ -1,9 +1,5 @@
 products = [10, 14, 22, 33, 44, 13, 22, 55, 66, 77]
 total = 0
-
-print("Supermarket")
-print("===========")
-
 while True:
     ch = int(input("Please select product (1-10) 0 to Quit: "))
     if ch == 0:
