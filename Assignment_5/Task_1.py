@@ -1,5 +1,3 @@
-#We use the Diabetes toy dataset, that can be loaded with an sklearn function
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
